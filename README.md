@@ -3,7 +3,7 @@
 ## Volunteer at Estrela Dalva Program ##
 
 
-Estrela Dalva Program (http://www.programaestreladalva.org.br/) was founded to support intellectual giftedness children from less economically developed communities at Rio de Janeiro city. It aims at promoting extracurricular activities in order to develop their cognitive, cultural and socioemotional skills.
+[Estrela Dalva Program](http://www.programaestreladalva.org.br/) was founded to support intellectual giftedness children from less economically developed communities at Rio de Janeiro city. It aims at promoting extracurricular activities in order to develop their cognitive, cultural and socioemotional skills.
 
 Together with a Master’s colleague, we volunteered to offer a Programming and Robotics Workshop to eleven students from 13 to 15 years old. Their activities involved programming learning on RUR-PLE environment and some simple Arduino based projects. Here we provide some of the classes’ study materials.
 
