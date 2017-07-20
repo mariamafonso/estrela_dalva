@@ -13,7 +13,8 @@ Together with a Master’s colleague, we volunteered to offer a Programming and 
 
 
 ### Contact info ###
-Mariam Afonso (mariam.afonso@gmail.com)
+Mariam Afonso
+###### ( m a r i a m . a f o n s o @ g m a i l . c o m ) ######
 ###### Repository available at [Bitbucket](https://bitbucket.org/mariamafonso/estrela_dalva) and [GitHub](https://github.com/mariamafonso/estrela_dalva) ######
 
 
